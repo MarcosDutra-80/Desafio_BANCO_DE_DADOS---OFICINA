@@ -52,4 +52,4 @@ Nenhuma informação pessoal, comercial ou sensível real está sendo usada ou r
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/MarcosDutra-80/Desafio_BANCO_DE_DADOS---OFICINA.git
+   git clone https://github.com/MarcosDutra-80/Desafio_BANCO_DE_DADOS---Oficina.git
