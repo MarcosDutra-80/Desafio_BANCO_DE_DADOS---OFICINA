@@ -28,7 +28,8 @@ Este projeto consiste no design e implementação de um banco de dados relaciona
 
 ### Diagrama ER (Entity-Relationship)
 
-> ![MODELO_ER_ECOMMERCE_DESAFIO_GIT](https://github.com/user-attachments/assets/92b744eb-eb69-4595-99c4-5bc519e2b0ea)
+> ![MODELO_ER_OFICINA](./Desafio_Oficina/img/Modelo_ER_OFICINA.PNG)
+
 
 
 
